@@ -73,11 +73,11 @@
     <property name="project.structure.side.proportion" value="0.3979751" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\heima\springboot\springboot_01_02_base_config\src\main\resources" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itheima.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\heima\springboot\springboot_01_02_base_config\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Application">

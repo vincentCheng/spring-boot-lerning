@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc249823-6e09-4267-83ee-0dc0786d01e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="springboot_01_01_quickstart/invalid/Spring" />
+      <facet id="springboot_01_01_quickstart/invalid/Web" />
+      <facet id="springboot_01_02_quickstart/invalid/Spring" />
+      <facet id="springboot_01_02_quickstart/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-software-repository" />
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2UyDtNyFpMM4keqXL8MeUvxpeLJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3979751" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\heima\springboot\springboot_01_02_base_config\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="springboot_01_01_quickstart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="springboot_01_01_quickstart" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Application" />
+      <module name="springboot_01_02_base_config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0101QuickstartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Springboot0101QuickstartApplication" />
+      <module name="springboot_01_01_quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0102QuickstartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Springboot0102QuickstartApplication" />
+      <module name="springboot_01_02_quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_02_base_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0101QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_01_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot0101QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0102QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_02_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot0102QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Springboot0102QuickstartApplication" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.Springboot0101QuickstartApplication" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Springboot0102QuickstartApplication" />
+      <item itemvalue="Spring Boot.Springboot0101QuickstartApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Springboot0102QuickstartApplication" />
+        <item itemvalue="Application.Springboot0101QuickstartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc249823-6e09-4267-83ee-0dc0786d01e7" name="Default Changelist" comment="" />
+      <created>1693903140980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693903140980</updated>
+      <workItem from="1693903144443" duration="1076000" />
+      <workItem from="1693904244803" duration="1247000" />
+      <workItem from="1693905510427" duration="640000" />
+      <workItem from="1693984779350" duration="4049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/heima/springboot/springboot_01_01_quickstart" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="115" key="CommitChangelistDialog2" timestamp="1693989371347">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="773" y="115" key="CommitChangelistDialog2/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693989371347" />
+    <state x="816" y="274" key="FileChooserDialogImpl" timestamp="1693988815390">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="816" y="274" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693988815390" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1693988756668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693988756668" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1693988756668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693988756668" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1693988756668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693988756668" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1693988756668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693988756668" />
+    <state x="272" y="94" width="1528" height="851" key="SettingsEditor" timestamp="1693988817495">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="272" y="94" width="1528" height="851" key="SettingsEditor/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693988817495" />
+    <state x="716" y="216" key="SpringBootCustomization" timestamp="1693984828488">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="716" y="216" key="SpringBootCustomization/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1693984828488" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
